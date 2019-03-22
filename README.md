@@ -53,8 +53,6 @@ npm run start
 
 Summit requires [npm][npm] to run.
 
-```
-
 
 ## License
 
