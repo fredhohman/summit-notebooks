@@ -33,25 +33,14 @@ Download or clone this repository:
 git clone https://github.com/fredhohman/summit-notebooks.git
 ```
 
-Within the cloned repo, install the required packages with npm:
-
-```bash
-npm install
-```
-
 
 ## Usage
 
-To run Summit:
+To run Summit Nooteboks, run a Jupyter server:
 
 ```bash
-npm run start
+jupyter lab
 ```
-
-
-### Requirements
-
-Summit requires [npm][npm] to run.
 
 
 ## License
