@@ -7,14 +7,14 @@ This repository contains the python notebooks used to generate the data used in 
 
 For the Summit visualization, go to [https://github.com/fredhohman/summit][summit].
 
-### Main notebooks:
+## Main notebooks:
 
 * [`activation-matrices.ipynb`](activation-matrices.ipynb): generate activation matrices
 * [`activation-matrices-to-json.ipynb`](activation-matrices-to-json.ipynb): combine activation matrices per class into json format
-* [`dag.ipynb`](dag.ipynb): making class attribution graphs from all influence matrices
+* [`attribution-graph.ipynb`](dag.ipynb): generating class attribution graphs
 
 
-### Experimental notebooks:
+## Experimental notebooks:
 
 * [`top-channels-used-per-layer.ipynb`](top-channels-used-per-layer.ipynb): analysis for determining which channels were used the most by all classes for all layers
 
