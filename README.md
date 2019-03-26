@@ -5,13 +5,13 @@
 Summit is a an interactive system that summarizes and visualizes what features a deep learning model has learned and how those features interact to make predictions.
 This repository contains the python notebooks used to generate the data used in the [Summit visualization][summit].
 
-For the Summit visualization, go to (https://github.com/fredhohman/summit)[summit].
+For the Summit visualization, go to [https://github.com/fredhohman/summit][summit].
 
 ### Main notebooks:
 
 * [`activation-matrices.ipynb`](activation-matrices.ipynb): generate activation matrices
 * [`activation-matrices-to-json.ipynb`](activation-matrices-to-json.ipynb): combine activation matrices per class into json format
-* [`dag.ipynb`](dag.ipynb): making class attribution graphs from all influence matrices
+* [`attribution-graph.ipynb`](dag.ipynb): generating class attribution graphs
 
 
 ### Experimental notebooks:
