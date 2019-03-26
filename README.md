@@ -5,7 +5,7 @@
 Summit is a an interactive system that summarizes and visualizes what features a deep learning model has learned and how those features interact to make predictions.
 This repository contains the python notebooks used to generate the data used in the [Summit visualization][summit].
 
-For the Summit visualization, go to (https://github.com/fredhohman/summit)[summit].
+For the Summit visualization, go to [https://github.com/fredhohman/summit][summit].
 
 ### Main notebooks:
 
