@@ -43,6 +43,15 @@ jupyter lab
 ```
 
 
+## Resources
+
+We used the following ImageNet metadata:
+
+* [https://github.com/google/inception/blob/master/synsets.txt](https://github.com/google/inception/blob/master/synsets.txt)
+* [https://gist.github.com/aaronpolhamus/964a4411c0906315deb9f4a3723aac57](https://gist.github.com/aaronpolhamus/964a4411c0906315deb9f4a3723aac57)
+* [https://gist.github.com/yrevar/942d3a0ac09ec9e5eb3a](https://gist.github.com/yrevar/942d3a0ac09ec9e5eb3a)
+
+
 ## License
 
 MIT License. See [`LICENSE.md`](LICENSE.md).
