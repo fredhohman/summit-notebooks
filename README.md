@@ -23,7 +23,7 @@ For the Summit visualization, go to [https://github.com/fredhohman/summit][summi
 
 ## Live Demo
 
-For a live demo, visit: [fredhohman.com\summit][demo]
+For a live demo, visit: [fredhohman.com/summit][demo]
 
 
 ## Installation
@@ -63,6 +63,6 @@ MIT License. See [`LICENSE.md`](LICENSE.md).
 For questions or support [open an issue][issues] or contact [Fred Hohman][fred].
 
 [summit]: https://github.com/fredhohman/summit
-[fred]: http://www.fredhohman.com
-[demo]: http://www.fredhohman.com/summit
+[fred]: https://fredhohman.com
+[demo]: https://fredhohman.com/summit/
 [issues]: https://github.com/fredhohman/summit-notebooks/issues
