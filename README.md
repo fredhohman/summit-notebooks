@@ -13,7 +13,7 @@ For the Summit visualization, go to [https://github.com/fredhohman/summit][summi
 * [`influence.py`](activation-matrices.ipynb): generate aggregated influence matrices
 * [`activation-matrices-to-json.ipynb`](activation-matrices-to-json.ipynb): combine activation matrices per class into json format
 * [`attribution-graph.ipynb`](dag.ipynb): generating class attribution graphs
-* [`feature-vis-sprite-to-images.ipynb`]: split feature visualization sprites to single images
+* [`feature-vis-sprite-to-images.ipynb`](feature-vis-sprite-to-images.ipynb): split feature visualization sprites to single images
 
 ### Experimental notebooks:
 
